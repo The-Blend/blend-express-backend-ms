@@ -1,0 +1,4 @@
+dist/
+node_modules/
+songs/
+src/controllers/songsLibrary.ts
